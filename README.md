@@ -1,8 +1,8 @@
 # QuizApplication
 This project was created as part of a course where I learned how to build a Quiz application without using any libraries or frameworks. The course was an incredible journey into the core concepts of JavaScript, CSS, and HTML. Below, you'll find an overview of the project and the key concepts I learned along the way.
 
-![Screenshot 2024-08-23 at 12 29 29 PM (2)](https://github.com/user-attachments/assets/4676b2ef-e7b5-43a8-b285-f6a5d7f60a9c)
 
+![Screenshot 2024-08-23 at 1 43 39 PM (2)](https://github.com/user-attachments/assets/f469600b-6227-4b79-b5e1-d325c2518faf)
 
 
 
