@@ -17,3 +17,9 @@ Through this project, I learned how to use JavaScript to create and manipulate H
 ## Fetch Trivia Questions from Open Trivia DB API
 One of the key features of this project was integrating the Open Trivia DB API. I used the Fetch API to load trivia questions into the quiz, making it more engaging and diverse.
 
+![image](https://github.com/user-attachments/assets/fec999c7-4a91-4dfa-a6c6-b759d4ee727d)
+
+
+
+
+
